@@ -20,7 +20,7 @@
     "start:remix": "remix-serve build"
   },
   "dependencies": {
-    "@prisma/client": "4.11.0",
+    "@prisma/client": "4.12.0",
     "@remix-run/node": "1.14.3",
     "@remix-run/react": "1.14.3",
     "@remix-run/serve": "1.14.3",
@@ -34,7 +34,7 @@
     "eslint": "8.36.0",
     "npm-run-all": "4.1.5",
     "prettier-plugin-tailwindcss": "0.2.5",
-    "prisma": "4.11.0",
+    "prisma": "4.12.0",
     "tailwind-styled-components": "2.2.0",
     "tailwindcss": "3.2.7"
   },
